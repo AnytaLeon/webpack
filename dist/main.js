@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Привет, мир!\r\nя запустила webpack!")})();
